@@ -16,7 +16,7 @@ int adminLogin(void) {
     getStringInput("Admin Password: ", password, PASS_LEN);
 
     if (strcmp(username, "Kaushik") == 0 &&
-        strcmp(password, "Summer026") == 0) {
+        strcmp(password, "Summer2026") == 0) {
 
         printf("\nAdmin login successful!\n");
         return 1;
