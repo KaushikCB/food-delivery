@@ -1,6 +1,6 @@
 # FoodDelivery — Console-Based Food Delivery Management System
 
-A menu-driven **C (ANSI/C99)** console application built for a **Data Structure Lab
+A menu-driven C console application built for a **Data Structure Lab
 Course**. It models a simplified Foodpanda/Zomato-style food delivery platform and
 demonstrates practical implementations of core data structures and algorithms —
 no external libraries, everything is written by hand.
@@ -86,7 +86,7 @@ The program compiles cleanly with `gcc -Wall -Wextra -Wpedantic` — no warnings
 
 | Role     | Username  | Password  |
 |----------|-----------|-----------|
-| Admin    | `admin`   | `admin123`|
+| Admin    | `Kaushik`   | `Summer2026`|
 | Customer | `johndoe` | `john123` |
 
 If `restaurants.txt` is missing (first run), the program automatically seeds 3
