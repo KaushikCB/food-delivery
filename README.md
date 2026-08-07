@@ -86,7 +86,7 @@ The program compiles cleanly with `gcc -Wall -Wextra -Wpedantic` — no warnings
 
 | Role     | Username  | Password  |
 |----------|-----------|-----------|
-| Admin    | `admin`   | `admin123`|
+| Admin    | `Kaushik`   | `Summer2026`|
 | Customer | `johndoe` | `john123` |
 
 If `restaurants.txt` is missing (first run), the program automatically seeds 3
